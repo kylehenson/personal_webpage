@@ -1,0 +1,23 @@
+.angelos {
+    color:            red;
+    background-color: green;
+}
+
+.marcos {
+    color:            red;
+    background-color: transparent;
+}
+
+.do {
+    color: white;
+    background-color: green;
+}
+
+/*p .purple {
+    color: purple;
+    background-color: ;
+}*/
+
+ul.spacey li strong {
+    line-height: 2em;
+}
