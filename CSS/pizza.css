@@ -1,3 +1,7 @@
+body {
+  background-color:   rgb(7, 50, 111);
+}
+
 .angelos {
     color:            red;
     background-color: green;
@@ -13,11 +17,11 @@
     background-color: green;
 }
 
-/*p .purple {
-    color: purple;
-    background-color: ;
-}*/
-
-ul.spacey li strong {
+ol.spacey li strong {
     line-height: 2em;
+}
+
+ul.spacey li emphasis {
+    line-height: 2em;
+    font-family: fantasy;
 }
